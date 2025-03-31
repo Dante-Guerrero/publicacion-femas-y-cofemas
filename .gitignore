@@ -6,6 +6,9 @@
 .RData
 .RDataTmp
 
+# Permitir específicamente data/mapas.RData
+!data/mapas.RData
+
 # User-specific files
 .Ruserdata
 
